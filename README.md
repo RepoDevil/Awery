@@ -66,5 +66,5 @@ Thank you to all the people who have contributed!<br>
 ---
 
 <p>
-   <img src="https://count.getloli.com/get/@:awerymrboomdev" alt="Viewers count" />
+   <img src="https://count.getloli.com/get/@:repodevildantotsu" alt="Viewers count" />
 </p>
